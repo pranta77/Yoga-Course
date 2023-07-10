@@ -1,0 +1,37 @@
+.homefrist-section{
+    background-image: url(../Image/young-woman-practicing-yoga-nature-meditation_38391-910-prwpsgcjqtievpz9bpt1vfuzsp55n0p9pyjhujf634.webp);
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    /* position: relative; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.homefrisr-title{
+    /* position: absolute; */
+    color: white;
+    /* margin-top: 1px; */
+    font-size: 25px;
+    font-weight: 600; 
+}
+.welcome{
+    color: aliceblue;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: 800;
+}
+.homefrisr-title p{
+    color: rgb(233, 100, 17);
+    font-weight: 600;
+    font-size: 40px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.middle-title{
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 10%;
+}

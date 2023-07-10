@@ -1,0 +1,21 @@
+.course-img img{
+    width: 100%;
+}
+.all-courses{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+
+}
+.all-courses img{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
+.courses-detail{
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    
+}

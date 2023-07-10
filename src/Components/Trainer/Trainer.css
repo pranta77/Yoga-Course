@@ -1,0 +1,20 @@
+.img-trainer img{
+    width: 100%;
+}
+.trainer-container{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    margin: 30px;
+}
+.trainer-container img{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+.trainer-detail{
+    background-color: wheat;
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
